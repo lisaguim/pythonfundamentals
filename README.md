@@ -1,4 +1,4 @@
-# Python Fundamentals
+# Python Fundamentals by Lisa
 Python Fundamentals
 
 Repository created with the purpose to record python fundamentals that I as a beggingers programer should know. I wrote here what I understand that is important and there are some drill exercises.
