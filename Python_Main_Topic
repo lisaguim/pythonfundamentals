@@ -33,5 +33,11 @@ TypeError: 'tuple' object does not support item assignment
  
 3 - Methods
 
+4 - TXT, CSV and JASON files: What is the differrence?
+  TXT = A txt file is a simple file with no formartting such as bold,italic or different fonts. They are universal an can be read in any device or operating system. 
+  
+  CSV (Comma Separeted Value) = As the name says, CSV is a file where the data is separeted by comma. They are similiar  TXT.
+  
+  JASON (Java Script Ojetc Notation) = It is a simple data format that is used to transmit information in web application. This kind of file is like a dictionay structere in python.
 
 
