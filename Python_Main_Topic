@@ -1,0 +1,31 @@
+Main Topic
+
+1 - Mathematical Operators
+
+2 - List, Tuples or Dictionaries ?
+
+  First, List and tuplea are almost the same thing. The difference betewwen each order is that list are mutable while tuples are not.
+  In other words, instead of tuples, you can change a element inside of a list.
+  There are diferences in the each structure too. List uses the parenthesis while tuples uses brackets.
+  
+  For example:
+  
+  >>>> Changing a list:
+  
+list = [0, 1, 2, 3]
+print(lista)
+[0, 1, 2, 3]
+list[0] = 1
+print(list)
+[9, 1, 2, 3]
+
+  >>>> Changing a tuple:
+  
+tuple = (0, 1, 2, 3)
+print(tupla)
+(0, 1, 2, 3)
+tuple[0] = 1
+TypeError: 'tuple' object does not support item assignment
+
+ Dictionaries: Dictionaries are one way to overcome the list limits as the fact that the elemets are independents of each other. 
+ With dicionary, the entire collection of data in which a key is stored has a corresponding value just lika a dictionary in real life.
