@@ -31,8 +31,11 @@ TypeError: 'tuple' object does not support item assignment
  With dicionary, the entire collection of data in which a key is stored has a corresponding value just lika a dictionary in real life.
  
  
-3 - Methods
+3 - Methods & Objetcs
 
+  Everthing in python is a objetc.
+  a method is a function that "belongs" to an object
+  
 4 - TXT, CSV and JASON files: What is the differrence?
   TXT = A txt file is a simple file with no formartting such as bold,italic or different fonts. They are universal an can be read in any device or operating system. 
   
