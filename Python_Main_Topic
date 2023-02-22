@@ -41,6 +41,8 @@ TypeError: 'tuple' object does not support item assignment
   
   CSV (Comma Separeted Value) = As the name says, CSV is a file where the data is separeted by comma. They are similiar  TXT.
   
-  JASON (Java Script Ojetc Notation) = It is a simple data format that is used to transmit information in web application. This kind of file is like a dictionay structere in python.
+  JASON (Java Script Ojetc Notation) = It is a simple data format that is used to transmit information in web application. This kind of file is like a dictionay 
+  structere in python.
+  
 
 
