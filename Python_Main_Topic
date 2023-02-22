@@ -44,5 +44,12 @@ TypeError: 'tuple' object does not support item assignment
   JASON (Java Script Ojetc Notation) = It is a simple data format that is used to transmit information in web application. This kind of file is like a dictionay 
   structere in python.
   
+ 5 - Function:
 
-
+Built in function: examples: reduce, map, filter, zip, enumerate
+Lambda Fuction = operação anonima; fazer uma função em tempo de execução
+Expressões regulares = "Expressões Regulares são uma sequência de caracteres que definem uma busca padrão em strings. Em Python, as Expressões Regulares são suportadas
+pelo pacotere. Ele fornece uma série de funções para pesquisar e substituir padrões em strings. Algumas das tarefas mais comuns que podem ser realizadas com Expressões
+Regulares incluem verificar se uma string corresponde a um determinado padrão, extrair informações de uma string combase em um padrão específico e substituir trechos
+de uma string com base em um padrão.Por  exemplo,  você  pode  usar  uma  expressão  regular  para  verificar  se  uma  string representa um endereço de e-mail válido,
+ou para encontrar todas as ocorrências de um padrão em uma string."
