@@ -28,7 +28,7 @@ tuple[0] = 1
 TypeError: 'tuple' object does not support item assignment
 
  Dictionaries: Dictionaries are one way to overcome the list limits as the fact that the elemets are independents of each other. 
- With dicionary, the entire collection of data in which a key is stored has a corresponding value just lika a dictionary in real life.
+ With dicionary, the entire collection of data in which a key is stored has a corresponding value just like a dictionary in real life.
  
  
 3 - Methods & Objetcs
