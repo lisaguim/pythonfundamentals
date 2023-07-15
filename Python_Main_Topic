@@ -6,7 +6,7 @@ Main Topic
 
   First, List and tuplea are almost the same thing. The difference betewwen each order is that list are mutable while tuples are not.
   In other words, instead of tuples, you can change a element inside of a list.
-  There are diferences in the each structure too. List uses the parenthesis while tuples uses brackets.
+  There are diferences in the each structure too. List uses brackets  while tuples uses the parenthesis.
   
   For example:
   
